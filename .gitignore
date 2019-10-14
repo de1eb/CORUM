@@ -2,6 +2,9 @@
 # Edit at https://www.gitignore.io/?templates=node
 
 ### Node ###
+
+config/confg.json
+
 # Logs
 logs
 *.log
